@@ -1,0 +1,47 @@
+//queries
+
+/***********************************************
+                MEDIA QUERIES
+***********************************************/
+
+@media all and (min-width: 501px) and (max-width: 750px) {
+    #carouselExampleIndicators {
+        img {
+            width: 28rem;
+        }
+    }
+}
+
+@media all and (min-width: 570px) {
+    .contact {
+        margin-bottom: 8rem !important;
+    }
+    #map {
+        height: 86%;
+        margin-top: 0;
+    }
+}
+
+@media all and (min-width: 751px) {
+    #carouselExampleIndicators {
+        img {
+            width: 28rem;
+        }
+    }
+    .jm-about,
+    .jm-ending,
+    .jm-facts,
+    .openning-secondary {
+        .container {
+            max-width: 60%;
+            margin-top: 2rem;
+        }
+    }
+    .jm-facts {
+        margin-bottom: 9rem;
+        padding: 6rem 0;
+    }
+    .jm-about {
+        margin-top: 9rem !important;
+    }
+}
