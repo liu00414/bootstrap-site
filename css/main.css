@@ -1,16 +1,4 @@
 @charset "UTF-8";
-/***********************************************
-                NOTES
-light blue  #C7F7FF
-med blue    #89C0C9
-dark blue   #3a5E63
-light brown #C9A689
-dark brown  #7C593C
-light grey  #d4d4d4
-dark grey   #222
-
-                DEFAULTS
-***********************************************/
 body {
   font-size: 16px;
   font-family: "Raleway", ‘Trebuchet MS’, "Helvetica", "Arial", sans-serif;
